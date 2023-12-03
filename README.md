@@ -2,8 +2,7 @@
 
 <p>Sou apenas um estudante de tecnologias 🤓, com intuito de aprender e desenvolver projetos para melhorar minha experiência no ramo</p>
 
-##
-
+<div align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px;">
   </a>
@@ -12,6 +11,9 @@
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px;">
+  </a>
+    <a href="https://www.mysql.com" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 40px;" </img>
   </a>
   </br>
 
