@@ -20,13 +20,10 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://www.instagram.com/vitor_halliwell/" target="blank">
+  <a href="https://www.instagram.com/_silva.guuh/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height: 30px;">
   </a>
-  <a href="https://twitter.com/vitordotcom" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="height: 30px;">
-  </a>
-  <a href="https://wa.me/5511976534383" target="blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="height: 30px;">
+  <a href="https://www.linkedin.com/in/luiz-gustavo-silva-49b71725a/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=lindedin&logoColor=white" style="height: 30px;">
   </a>
 </div>
