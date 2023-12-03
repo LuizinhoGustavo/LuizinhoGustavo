@@ -1,10 +1,10 @@
 ## Olá, Sou o Luiz Gustavo!!
 
-<p>Sou apenas um estudante de tecnologias 🤓, com intuito de aprender e desenvolver projetos para melhorar minha experiência no ramo</p>
+<p>Sou apenas um estudante de tecnologias 🤓, com intuito de aprender e desenvolver projetos para melhorar minha experiência no ramo</p>#
 
-<div align="center">
-  <a href="https://www.php.net/docs.php" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height: 40px;">
+###
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px;">
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 40px;">
@@ -12,15 +12,8 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px;">
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px;">
-  </a>
-  <a href="https://docs.python.org/3/" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 40px;">
-  </a>
-  <a href="https://nodejs.org/en/docs/" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 40px;">
-  </a>
+###
+
 </div>
 <br>
 <div align="center">
