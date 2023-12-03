@@ -2,7 +2,7 @@
 
 <p>Sou apenas um estudante de tecnologias 🤓, com intuito de aprender e desenvolver projetos para melhorar minha experiência no ramo</p>
 
-<div style="display: flex,
+<div style="display: flex;
   justify-content: center">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
