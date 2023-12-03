@@ -1,8 +1,7 @@
 ## Olá, Sou o Luiz Gustavo!!
 
-<p>Sou apenas um estudante de tecnologias 🤓, com intuito de aprender e desenvolver projetos para melhorar minha experiência no ramo</p>#
+<p>Sou apenas um estudante de tecnologias 🤓, com intuito de aprender e desenvolver projetos para melhorar minha experiência no ramo</p>
 
-##
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px;">
   </a>
@@ -13,7 +12,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px;">
   </a>
   </br>
-##
 
 </div>
 <br>
