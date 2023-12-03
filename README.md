@@ -1,6 +1,8 @@
-## Olá, Sou o Luiz Gustavo, Estudante e entusiasta de tecnologia!!
+## Olá, Sou o Luiz Gustavo!!
 
-<p></p>
+<li>
+  <ul><p>Estudante de Tecnologias🤓</p></ul>
+</li>
 
 <div style="display: inline-block">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
