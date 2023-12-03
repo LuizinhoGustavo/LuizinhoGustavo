@@ -24,6 +24,6 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height: 30px;">
   </a>
   <a href="https://www.linkedin.com/in/luiz-gustavo-silva-49b71725a/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=lindedin&logoColor=white" style="height: 30px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 30px;">
   </a>
 </div>
