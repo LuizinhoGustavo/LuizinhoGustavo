@@ -17,7 +17,7 @@
   </a>
   </a>
     <a href="https://tailwindcss.com" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="height: 50px;" </img>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="height: 40px;" </img>
   </a>
   </br>
 
