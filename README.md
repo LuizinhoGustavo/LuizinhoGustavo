@@ -26,8 +26,7 @@
 <div align="center">
   <a href="https://www.instagram.com/_silva.guuh/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height: 30px;">
-  </a>
-  <a href="https://www.linkedin.com/in/luiz-gustavo-silva-49b71725a/" target="blank">
+  </a> <a href="https://www.linkedin.com/in/luiz-gustavo-silva-49b71725a/" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 30px;">
   </a>
 </div>
