@@ -15,6 +15,10 @@
     <a href="https://www.mysql.com" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 50px;" </img>
   </a>
+  </a>
+    <a href="https://www.tailwind.com" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="height: 50px;" </img>
+  </a>
   </br>
 
 </div>
