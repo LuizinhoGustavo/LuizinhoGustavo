@@ -12,12 +12,11 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px;">
   </a>
-    <a href="https://www.mysql.com" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 50px;" </img>
-  </a>
+    <a href="https://react.dev" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="height: 40px;" />
   </a>
     <a href="https://tailwindcss.com" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="height: 40px;" </img>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="height: 40px;" />
   </a>
   </br>
 
