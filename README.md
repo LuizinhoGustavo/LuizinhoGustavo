@@ -1,6 +1,7 @@
 ## Olá, Sou o Luiz Gustavo!!
 
-<p>Sou apenas um estudante de tecnologias 🤓, com intuito de aprender e desenvolver projetos para melhorar minha experiência no ramo</p>
+<p>Sou apenas um estudante de tecnologias 🤓, com intuito de aprender e desenvolver projetos para melhorar minha experiência no ramo.</p>
+<p>Atualmente estou estudando Ciência da Computação na UFABC</p>
 
 <div align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="blank">
