@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Luiz Gustavo, tenho 19 anos e moro em São Paulo/Brasil. Sou estudante universitário em Ciência da Computação na Faculdade Federal do ABC e Estagiário no desenvolvimento de aplicações Web, porém estou estudando para aprimorar minhas habilidades nas mais diversas áreas relacionadas a tecnologia!</p>
+<p align="left">Me chamo Luiz Gustavo, tenho 19 anos e moro em São Paulo/Brasil. Sou estudante universitário em Ciência da Computação na Faculdade Federal do ABC e Estagiário no desenvolvimento de aplicações Front-End, porém estou estudando para aprimorar minhas habilidades nas mais diversas áreas relacionadas a tecnologia!</p>
 
 ###
 
